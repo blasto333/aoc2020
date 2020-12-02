@@ -56,6 +56,7 @@ function combinationUtil($arr, $data, $start,
 				$product*=$number;
 			}
 			echo $product;
+			die();
 		}
 		
         return;
